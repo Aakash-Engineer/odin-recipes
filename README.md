@@ -1,3 +1,3 @@
 # A basic recipe featuring website
 
-I built this after learning html and css for 12 days
+This is a simple a recipe featuring website. i buitl this after learning HTML and CSS for 12 days. in future, i will make it more professtional and functional
